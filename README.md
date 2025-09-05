@@ -92,5 +92,3 @@ flutter run
 https://github.com/user-attachments/assets/58be1fa4-4eb7-4e04-8e7b-b09fba5da1f8
 
 
-https://github.com/user-attachments/assets/5f53a379-e33a-4d5b-99fb-c20ba3ee1fac
-
