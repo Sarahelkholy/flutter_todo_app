@@ -5,6 +5,12 @@ This is a simple To‑Do list mobile app built using **Flutter**, **Riverpod** f
 ![Flutter](https://img.shields.io/badge/Built%20With-Flutter-blue?logo=flutter)
 
 ---
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/58be1fa4-4eb7-4e04-8e7b-b09fba5da1f8
+
+---
+
 
 ## 🚀 Features
 
@@ -86,9 +92,6 @@ flutter pub get
 flutter run
 ```
 
-### Screen record
 
-
-https://github.com/user-attachments/assets/58be1fa4-4eb7-4e04-8e7b-b09fba5da1f8
 
 
